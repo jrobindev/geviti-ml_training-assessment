@@ -1,1 +1,13 @@
-[]
+[
+  {
+    "id": "3c9ccb48-df2a-434c-a425-2686d8eeef21",
+    "sqft": 4000,
+    "bedrooms": 5,
+    "prediction": 598289,
+    "confidenceInterval": {
+      "lower": 538461,
+      "upper": 658118
+    },
+    "timestamp": "2025-11-11T17:23:05.246Z"
+  }
+]
